@@ -1,0 +1,16 @@
+C:\Users\Nurmuhammad\source\repos\CalculatorV2.0\CalculatorV2.0\bin\Debug\netcoreapp3.1\CalculatorV2.0.exe
+C:\Users\Nurmuhammad\source\repos\CalculatorV2.0\CalculatorV2.0\bin\Debug\netcoreapp3.1\CalculatorV2.0.deps.json
+C:\Users\Nurmuhammad\source\repos\CalculatorV2.0\CalculatorV2.0\bin\Debug\netcoreapp3.1\CalculatorV2.0.runtimeconfig.json
+C:\Users\Nurmuhammad\source\repos\CalculatorV2.0\CalculatorV2.0\bin\Debug\netcoreapp3.1\CalculatorV2.0.runtimeconfig.dev.json
+C:\Users\Nurmuhammad\source\repos\CalculatorV2.0\CalculatorV2.0\bin\Debug\netcoreapp3.1\CalculatorV2.0.dll
+C:\Users\Nurmuhammad\source\repos\CalculatorV2.0\CalculatorV2.0\bin\Debug\netcoreapp3.1\CalculatorV2.0.pdb
+C:\Users\Nurmuhammad\source\repos\CalculatorV2.0\CalculatorV2.0\obj\Debug\netcoreapp3.1\CalculatorV2.0.csproj.AssemblyReference.cache
+C:\Users\Nurmuhammad\source\repos\CalculatorV2.0\CalculatorV2.0\obj\Debug\netcoreapp3.1\CalculatorV2._0.CalculatorForm.resources
+C:\Users\Nurmuhammad\source\repos\CalculatorV2.0\CalculatorV2.0\obj\Debug\netcoreapp3.1\CalculatorV2.0.csproj.GenerateResource.cache
+C:\Users\Nurmuhammad\source\repos\CalculatorV2.0\CalculatorV2.0\obj\Debug\netcoreapp3.1\CalculatorV2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nurmuhammad\source\repos\CalculatorV2.0\CalculatorV2.0\obj\Debug\netcoreapp3.1\CalculatorV2.0.AssemblyInfoInputs.cache
+C:\Users\Nurmuhammad\source\repos\CalculatorV2.0\CalculatorV2.0\obj\Debug\netcoreapp3.1\CalculatorV2.0.AssemblyInfo.cs
+C:\Users\Nurmuhammad\source\repos\CalculatorV2.0\CalculatorV2.0\obj\Debug\netcoreapp3.1\CalculatorV2.0.csproj.CoreCompileInputs.cache
+C:\Users\Nurmuhammad\source\repos\CalculatorV2.0\CalculatorV2.0\obj\Debug\netcoreapp3.1\CalculatorV2.0.dll
+C:\Users\Nurmuhammad\source\repos\CalculatorV2.0\CalculatorV2.0\obj\Debug\netcoreapp3.1\CalculatorV2.0.pdb
+C:\Users\Nurmuhammad\source\repos\CalculatorV2.0\CalculatorV2.0\obj\Debug\netcoreapp3.1\CalculatorV2.0.genruntimeconfig.cache
